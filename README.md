@@ -1,5 +1,5 @@
 ## Introduction
-It’s a Java SpringBoot application, used for skills assessment in Code Review, Identifying Vulnerabilities, and Advanced SQL Injections. It's developed by the HackTheBox Academy, and comes from the module of `Advanced SQL Injections`.
+It’s a Java SpringBoot application that primarily focuses on code review, identifying SQLi vulnerabilities in the code, and demonstrating advanced SQL injection techniques. It's developed by the HackTheBox Academy, and comes from the module of `Advanced SQL Injections`.
 
 ## How to run it
 ```java
